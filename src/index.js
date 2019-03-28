@@ -1,8 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-// https://codesandbox.io/s/owrw7yp9z
-
 import "./styles.css";
 
 function App() {
